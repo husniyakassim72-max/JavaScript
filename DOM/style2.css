@@ -1,0 +1,44 @@
+ul{
+    list-style: none;
+    max-width: 300px;
+}
+li{
+    border-bottom: 1px solid #ccc; 
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+#listoffruits{
+    background-color: #ffefa0;
+}
+.red{
+    background-color: #f56a79;
+}
+.yellow{
+    background: #ffefa0;
+
+}
+.green{
+    background: #03c4a1;
+}
+.orange{
+    background: #f08a5d;
+}
+.pink{
+    background: #ffcbcb;
+}
+.black{
+    background: black;
+}
+.hamrawi{
+    background: #c300ff;
+}
+.blue{
+    background: #5ab5ff;
+}
+.h1style{
+    background-color: rgb(0,174,255);
+    color: white;
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
